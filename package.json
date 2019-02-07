@@ -1,0 +1,23 @@
+{
+  "name": "api",
+  "version": "1.0.0",
+  "description": "API RestFull",
+  "main": "index.js",
+  "scripts": {
+    "test": "API repository"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/haifapremium/api.git"
+  },
+  "keywords": [
+    "promogramação",
+    "php"
+  ],
+  "author": "Ronaldo Almeida",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/haifapremium/api/issues"
+  },
+  "homepage": "https://github.com/haifapremium/api#readme"
+}
